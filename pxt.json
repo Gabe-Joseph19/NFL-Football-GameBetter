@@ -1,0 +1,28 @@
+{
+    "name": "NFL FOOTBALL Game",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-kickoff": "github:microsoft/pxt-kickoff"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.2.16",
+        "tag": "v1.2.16",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/971a86b03314f200ceb1a951ad277d1d6b8c1e23",
+        "target": "4.1.25",
+        "pxt": "6.2.30",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
