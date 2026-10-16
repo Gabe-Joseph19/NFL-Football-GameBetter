@@ -7,7 +7,7 @@
 
 This repository can be added as an **extension** in MakeCode.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
+* open [https://arcade.makecode.com/](https://arcade.makecode.com/S38975-85938-61718-51471)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/gabe-joseph19/nfl-football-game** and import
