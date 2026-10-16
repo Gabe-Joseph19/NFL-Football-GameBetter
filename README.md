@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://gabe-joseph19.github.io/nfl-football-game/](https://gabe-joseph19.github.io/nfl-football-game/)
+> Open this page at [https://gabe-joseph19.github.io/nfl-football-game/](https://arcade.makecode.com/S38975-85938-61718-51471)
 
 ## Use as Extension
 
